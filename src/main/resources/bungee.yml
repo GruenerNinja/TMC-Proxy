@@ -1,0 +1,3 @@
+name: TMC Proxy
+version: '${1.0}'
+main: _.tmc_proxy.TMCProxy
